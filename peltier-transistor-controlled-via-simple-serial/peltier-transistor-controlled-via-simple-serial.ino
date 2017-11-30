@@ -7,6 +7,8 @@ Serial code based off of original work
  by Arturo Guadalupi
 
  This example code is in the public domain.
+
+ circuit: http://bildr.org/2011/03/high-power-control-with-arduino-and-tip120/
  */
 
 const int controlPin = 9;
